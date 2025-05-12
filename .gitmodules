@@ -1,0 +1,6 @@
+[submodule "PolyBenchC"]
+	path = PolyBenchC
+	url = https://github.com/MatthiasJReisinger/PolyBenchC-4.2.1.git
+[submodule "ispc"]
+	path = ispc
+	url = https://github.com/ychen306/ispc-bench
